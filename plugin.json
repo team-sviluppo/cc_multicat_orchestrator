@@ -1,0 +1,10 @@
+{
+  "name": "Multicat Orchestrator",
+  "description": "Plugin that allows you to create an orchestrator for multiagent system",
+  "author_name": "Team Sviluppo",
+  "author_url": "https://www.teamsviluppo.it/",
+  "plugin_url": "https://github.com/team-sviluppo/cc_multicat_orchestrator",
+  "tags": "agent, orchestrator, multicat",
+  "thumb": "https://github.com/team-sviluppo/cc_multicat_orchestrator/blob/8aa459a20533aebba2a43e92a5227e2331591f8c/orchestrator_logo.png?raw=true",
+  "version": "1.0.0"
+}
