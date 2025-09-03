@@ -27,7 +27,7 @@ A Multicat use case is a chatbot on a website that must respond to completely di
 
 ### Prerequisites
 
-This plugin requires multiple Cheshire Cat instances with the **Mulricat Agent** plugin installed and configured (see Examlpe Section)
+This plugin requires multiple Cheshire Cat instances with the **Multicat Agent** plugin installed and configured (see Examlpe Section)
 
 - **🔑 API KEY**: the CCAT_API_KEY env value must be set on Orchestrator instance
 
